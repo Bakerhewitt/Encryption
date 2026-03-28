@@ -19,5 +19,5 @@ I would like to spend more time on asymmetrical encryption in the future.
 
 ```
 py -m pip install cryptography
-python encryption_demo.py
+py encryption_demo.py
 ```
