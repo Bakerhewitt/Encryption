@@ -18,6 +18,6 @@ I would like to spend more time on asymmetrical encryption in the future.
 ## How to run
 
 ```
-pip install cryptography
+py -m pip install cryptography
 python encryption_demo.py
 ```
